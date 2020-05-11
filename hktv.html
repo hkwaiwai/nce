@@ -84,7 +84,7 @@
 
 <script type="text/javascript">
 jwplayer("player").setup({
-  file: '//teslagram.com/live/channel_31.m3u8',
+  file: 'http://teslagram.com/live/channel_31.m3u8',
   type: 'hls',
   allowfullscreen: true,
   floating: false,
@@ -94,7 +94,7 @@ jwplayer("player").setup({
 
 $play = function(channel) {
   jwplayer("player").setup({
-    file: '//teslagram.com/live/'+ channel + '.m3u8',
+    file: 'http://teslagram.com/live/'+ channel + '.m3u8',
     type: 'hls'
   });
 }
