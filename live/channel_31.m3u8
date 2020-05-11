@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=344000,RESOLUTION=256x144,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_216_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=344000,RESOLUTION=256x144,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_216_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=560000,RESOLUTION=432x240,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_432_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=560000,RESOLUTION=432x240,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_432_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=938000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=938000,RESOLUTION=640x360,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1424000,RESOLUTION=848x480,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1424000,RESOLUTION=848x480,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2180000,RESOLUTION=1280x720,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2180000,RESOLUTION=1280x720,CODECS="avc1.66.30, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5528000,RESOLUTION=1920x1080,CODECS="avc1.640029, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5528000,RESOLUTION=1920x1080,CODECS="avc1.640029, mp4a.40.2"
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-b.m3u8?sd=10&rebase=on
